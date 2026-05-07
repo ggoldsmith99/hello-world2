@@ -1,4 +1,4 @@
-# My Awesome Project
+# myproject2
 
 A brief description of what this project does.
 
