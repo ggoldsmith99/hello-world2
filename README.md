@@ -1,8 +1,6 @@
 # myproject2
 
-A brief description of what this project does.
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) ![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)
+This README.md file was downloaded from the internet as an example.
 
 ## Table of Contents
 
